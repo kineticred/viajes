@@ -1,0 +1,20 @@
+nav {
+    background-color: rgb(9, 9, 94) !important;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.btn-login {
+    background-color: rgb(48, 142, 236)!important;
+    color: white !important;
+    border-radius: 20px;
+    padding: 5px 15px;
+    border: none;
+    font-weight: bold;
+}
+
+.promocion {
+    background-color: rgb(97, 207, 193) !important;
+}
